@@ -12,7 +12,7 @@
 //
 //= require jquery
 //= require jquery-ui
-//= require jquery-ui/dialog
+//= require jquery-ui/widgets/dialog
 //= require jquery_ujs
 //= require bootstrap
 //= require ie
